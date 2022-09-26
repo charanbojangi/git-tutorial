@@ -40,7 +40,7 @@ public class UserController {
 
 			}
 			catch(Exception e) {
-				System.out.println("hiii catch");
+				System.out.println("hlooo catch");
 
 				result= "home";
 			}
